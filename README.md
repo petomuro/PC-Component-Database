@@ -5,4 +5,5 @@ PC Component Database - Simple test app for working with sqlite3 in Python.
 
 # Run
 You have to installed Python language. https://www.python.org/
+
 Run MainGUI.py
