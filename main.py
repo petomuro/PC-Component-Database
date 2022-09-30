@@ -351,7 +351,7 @@ def filter_gui():
         window3.title('Filter components')
         # window3.geometry('400x200')
 
-    # Option menu
+    # OptionMenu
     first_choices = ['Name', 'Price']
     other_choices = ['All', 'Graphic card', 'Processor', 'Motherboard']
 
