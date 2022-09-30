@@ -1,11 +1,9 @@
-# PC-Component-Database
+# PC-Component-Database-School-Project
 
 PC Component Database - Simple test app for working with sqlite3 in Python.
 
 ![Example](https://github.com/petomuro/PC-Component-Database/blob/main/Example.PNG)
 
-# Run
+## Project Setup
 
-You have to installed Python language. https://www.python.org/
-
-Run main.py
+Just configure python interpreter and run main.py.
