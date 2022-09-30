@@ -8,4 +8,4 @@ PC Component Database - Simple test app for working with sqlite3 in Python.
 
 You have to installed Python language. https://www.python.org/
 
-Run MainGUI.py
+Run main.py
